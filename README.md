@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040496
+# Name:VISHVABALA
+# Date:31.08.2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1056" height="992" alt="HOSPITAL (2)" src="https://github.com/user-attachments/assets/9fbaf6dc-5146-4024-95ec-c41d18af43cf" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1104" height="975" alt="HOSPITAL" src="https://github.com/user-attachments/assets/7138de53-9548-4ba0-b669-af1746fdd672" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1175" height="896" alt="HOSPITAL (4)" src="https://github.com/user-attachments/assets/9fcba669-5181-4702-acb6-d6bb5f900c08" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1274" height="832" alt="HOSPITAL (6)" src="https://github.com/user-attachments/assets/9ad4e392-0437-4acb-8c1a-377ebb1e0f02" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1152" height="926" alt="HOSPITAL (5)" src="https://github.com/user-attachments/assets/16b1eb4c-da97-46c0-bcc7-6e532b429c85" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1152" height="924" alt="HOSPITAL (3)" src="https://github.com/user-attachments/assets/0828ad20-40b1-4cf9-ade9-17e221d15e5f" />
 
 
 
